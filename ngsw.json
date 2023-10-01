@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1695885313329,
-  "index": "https://emmanuelle20021.github.io/listicle/index.html",
+  "timestamp": 1696188476719,
+  "index": "C:/Program Files/Git/listicle/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://emmanuelle20021.github.io/listicle/favicon.ico",
-        "https://emmanuelle20021.github.io/listicle/index.html",
-        "https://emmanuelle20021.github.io/listicle/main.e78123978a7d0707.js",
-        "https://emmanuelle20021.github.io/listicle/manifest.webmanifest",
-        "https://emmanuelle20021.github.io/listicle/polyfills.67a74163db72fb97.js",
-        "https://emmanuelle20021.github.io/listicle/runtime.a2c3f68d22203dfb.js",
-        "https://emmanuelle20021.github.io/listicle/styles.d131e8c283a469c2.css"
+        "C:/Program Files/Git/listicle/favicon.ico",
+        "C:/Program Files/Git/listicle/index.html",
+        "C:/Program Files/Git/listicle/main.c8784b74b3e1eddc.js",
+        "C:/Program Files/Git/listicle/manifest.webmanifest",
+        "C:/Program Files/Git/listicle/polyfills.67a74163db72fb97.js",
+        "C:/Program Files/Git/listicle/runtime.a2c3f68d22203dfb.js",
+        "C:/Program Files/Git/listicle/styles.4f5aba8b91df4a6e.css"
       ],
       "patterns": []
     },
@@ -29,37 +29,47 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://emmanuelle20021.github.io/listicle/assets/icons/icon-128x128.png",
-        "https://emmanuelle20021.github.io/listicle/assets/icons/icon-144x144.png",
-        "https://emmanuelle20021.github.io/listicle/assets/icons/icon-152x152.png",
-        "https://emmanuelle20021.github.io/listicle/assets/icons/icon-192x192.png",
-        "https://emmanuelle20021.github.io/listicle/assets/icons/icon-384x384.png",
-        "https://emmanuelle20021.github.io/listicle/assets/icons/icon-512x512.png",
-        "https://emmanuelle20021.github.io/listicle/assets/icons/icon-72x72.png",
-        "https://emmanuelle20021.github.io/listicle/assets/icons/icon-96x96.png",
-        "https://emmanuelle20021.github.io/listicle/assets/img/img_profile.gif"
+        "C:/Program Files/Git/listicle/assets/icons/icon-128x128.png",
+        "C:/Program Files/Git/listicle/assets/icons/icon-144x144.png",
+        "C:/Program Files/Git/listicle/assets/icons/icon-152x152.png",
+        "C:/Program Files/Git/listicle/assets/icons/icon-192x192.png",
+        "C:/Program Files/Git/listicle/assets/icons/icon-384x384.png",
+        "C:/Program Files/Git/listicle/assets/icons/icon-512x512.png",
+        "C:/Program Files/Git/listicle/assets/icons/icon-72x72.png",
+        "C:/Program Files/Git/listicle/assets/icons/icon-96x96.png",
+        "C:/Program Files/Git/listicle/assets/img/WebCodeTools.png",
+        "C:/Program Files/Git/listicle/assets/img/animista.png",
+        "C:/Program Files/Git/listicle/assets/img/clippy.png",
+        "C:/Program Files/Git/listicle/assets/img/glassmorphism.png",
+        "C:/Program Files/Git/listicle/assets/img/plantillasHTML.png",
+        "C:/Program Files/Git/listicle/assets/img/spline.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://emmanuelle20021.github.io/listicle/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://emmanuelle20021.github.io/listicle/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://emmanuelle20021.github.io/listicle/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://emmanuelle20021.github.io/listicle/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://emmanuelle20021.github.io/listicle/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://emmanuelle20021.github.io/listicle/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://emmanuelle20021.github.io/listicle/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://emmanuelle20021.github.io/listicle/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://emmanuelle20021.github.io/listicle/assets/img/img_profile.gif": "61b8c8e1abd63c6dc936b16d1c2a17b38cbea252",
-    "https://emmanuelle20021.github.io/listicle/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://emmanuelle20021.github.io/listicle/index.html": "0d60ac3465b5ff2210c84661aa2158f15b4cdb09",
-    "https://emmanuelle20021.github.io/listicle/main.e78123978a7d0707.js": "faa305dc6a82dfa1a54a07d267a9372e780858f4",
-    "https://emmanuelle20021.github.io/listicle/manifest.webmanifest": "65a1b2a3c8a8648737fe172881eaaa962d808612",
-    "https://emmanuelle20021.github.io/listicle/polyfills.67a74163db72fb97.js": "7741623126924b7e17f68d763ae75af5020bf6ab",
-    "https://emmanuelle20021.github.io/listicle/runtime.a2c3f68d22203dfb.js": "ebb1694d3da3f871d058540ea47063a875f2c17f",
-    "https://emmanuelle20021.github.io/listicle/styles.d131e8c283a469c2.css": "fa6f38ab1e77689d1da94aa50263185275a03bd5"
+    "C:/Program Files/Git/listicle/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "C:/Program Files/Git/listicle/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "C:/Program Files/Git/listicle/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "C:/Program Files/Git/listicle/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "C:/Program Files/Git/listicle/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "C:/Program Files/Git/listicle/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "C:/Program Files/Git/listicle/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "C:/Program Files/Git/listicle/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "C:/Program Files/Git/listicle/assets/img/WebCodeTools.png": "1ad2caeedd83aa767cbdd182001fd51db8ed4374",
+    "C:/Program Files/Git/listicle/assets/img/animista.png": "7c1e28c549462ffbaa51061f079f3bf3adce48bf",
+    "C:/Program Files/Git/listicle/assets/img/clippy.png": "92b96b65be41d095d79a5196b050eb55647b266c",
+    "C:/Program Files/Git/listicle/assets/img/glassmorphism.png": "7cd87cb8c691665795426c0b254c47fbdd9b7044",
+    "C:/Program Files/Git/listicle/assets/img/plantillasHTML.png": "cf6b3c9c47c3f580bab3e22aaf07be5433e66620",
+    "C:/Program Files/Git/listicle/assets/img/spline.png": "f607701f75c11ea3114a50096ac488162d89782d",
+    "C:/Program Files/Git/listicle/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "C:/Program Files/Git/listicle/index.html": "6c75f027b38f10bdbc75dab0c994d32d32161aba",
+    "C:/Program Files/Git/listicle/main.c8784b74b3e1eddc.js": "888d4090e1afe2940c9954509133811be4f2b2bf",
+    "C:/Program Files/Git/listicle/manifest.webmanifest": "d3f167ca8854b200b4439c8fa954f69ffa86a6ef",
+    "C:/Program Files/Git/listicle/polyfills.67a74163db72fb97.js": "7741623126924b7e17f68d763ae75af5020bf6ab",
+    "C:/Program Files/Git/listicle/runtime.a2c3f68d22203dfb.js": "ebb1694d3da3f871d058540ea47063a875f2c17f",
+    "C:/Program Files/Git/listicle/styles.4f5aba8b91df4a6e.css": "44b5ad3b0b5c0cb2bbb32465650d9edc01fb9f98"
   },
   "navigationUrls": [
     {
