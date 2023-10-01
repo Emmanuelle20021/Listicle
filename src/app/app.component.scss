@@ -2,17 +2,19 @@
 
 .main-container{
     display: contents;
-    height: auto;
+    height: 100vh;
     min-height: 100vh;
     width: 100%;
     background-color: var(--primary-color);
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .main-container__banner{
     text-align: center;
+    min-height: 100vh;
     height: 500px;
     width: 100%;
-    background-image: url("https://www.canva.com/design/DAFvtozRNZM/watch");
 }
 
 .area-background__title{
@@ -23,7 +25,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    z-index: 1;
+    z-index: 20;
     color: var(--tertiary-color);
 }
 
@@ -34,7 +36,7 @@
     align-items: center;
     width: 100%;
     position: absolute;
-    top: 500px;
+    top: 80%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
@@ -66,6 +68,66 @@
     display: inline;
 }
 
+.list-container__list{
+    list-style: none;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+
+.list__container{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    scroll-snap-align: center;
+}
+.item__mask{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 50;
+    filter: blur(3px);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container__item{
+    position: absolute;
+    z-index: 99;
+    width: 80%;
+    padding: 5%;
+    border-radius: 10px;
+    background-color: var( --primary-color);
+}
+
+.item__title{
+    margin: 5% 0;
+}
+
+.item__content{
+    margin: 5%;
+    text-align: justify;
+}
+
+.item__link{
+    text-decoration: none;
+    color: var(--deactive-color);
+}
+
+.item__link:hover{
+    color: var(--info);
+    text-decoration: underline;
+}
+
 /*----banner background----*/
 
 
@@ -73,7 +135,7 @@
     position: relative;
     background: var(--background-animation-color) ;
     width: 100%;
-    height:100%;
+    height: 80%;
 }
 
 .area-background__circles{
@@ -92,7 +154,7 @@
     width: 20px;
     height: 20px;
     background: var(--primary-color);
-    animation: animate 25s linear infinite;
+    animation: animate-background 25s linear infinite;
     bottom: -150px;
     
 }
@@ -173,9 +235,9 @@
     animation-duration: 11s;
 }
 
+/* Key frames */
 
-
-@keyframes animate {
+@keyframes animate-background {
 
     0%{
         transform: translateY(0) rotate(0deg);

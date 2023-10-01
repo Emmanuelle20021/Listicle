@@ -1,11 +1,16 @@
 *{
     --primary-color: #282532;
     --secondary-color: #fda74d;
+    --deactive-color: #f5cea5;
     --tertiary-color: #f2f2f2;
     --background-animation-color: #a85903;
     margin: 0;
     padding: 0;
     color: var(--secondary-color);
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}::-webkit-scrollbar{
+    display: none;
 }
 
 body{

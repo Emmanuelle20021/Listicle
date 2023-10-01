@@ -1,7 +1,7 @@
 <section class="main-container">
   <section class="main-container__banner">
 		<div class="banner__area-background">
-			<h1 class="area-background__title">Tema de que hablare en la web</h1>
+			<h1 class="area-background__title">{{list.length}} Herramientas generadoras de estilos web</h1>
       <ul class="area-background__circles">
         <li *ngFor="let item of [].constructor(10)"></li>
       </ul>
@@ -11,12 +11,21 @@
         <img class="image-container__image" src="{{imgProfile}}" alt="Imagen de perfil" />
       </div>
       <h4 class="profile__name --info">Emma Mora</h4>
-      <h4 class="profile__date --info">27 de septiembre del 2023</h4>
+      <h4 class="profile__date --info">{{date | date: 'longDate'}}</h4>
     </div>
   </section>
   <section class="main-container__list-container">
     <ul class="list-container__list">
-      <li class="list__item"></li>
+      <li *ngFor="let element of list" class="list__container">
+        <div class="item__mask" style="background-image: url('../assets/img/{{element.img}}');"></div>
+        <div class="container__item">
+          <h3 class="item__title">{{element.titulo}}</h3>
+          <p class="item__content">
+            {{element.descripcion}}
+          </p>
+          <a class="item__link" href="{{element.url}}"> Ir a {{element.titulo}}</a>
+        </div>
+      </li>
     </ul>
   </section>
 </section>
