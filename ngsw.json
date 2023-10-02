@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1696188748428,
+  "timestamp": 1696275444450,
   "index": "https://listicle.emmamora.website/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://listicle.emmamora.website/favicon.ico",
         "https://listicle.emmamora.website/index.html",
-        "https://listicle.emmamora.website/main.c8784b74b3e1eddc.js",
+        "https://listicle.emmamora.website/main.8980ea60722b7c49.js",
         "https://listicle.emmamora.website/manifest.webmanifest",
         "https://listicle.emmamora.website/polyfills.67a74163db72fb97.js",
         "https://listicle.emmamora.website/runtime.a2c3f68d22203dfb.js",
@@ -41,6 +41,7 @@
         "https://listicle.emmamora.website/assets/img/animista.png",
         "https://listicle.emmamora.website/assets/img/clippy.png",
         "https://listicle.emmamora.website/assets/img/glassmorphism.png",
+        "https://listicle.emmamora.website/assets/img/omatsuri.png",
         "https://listicle.emmamora.website/assets/img/plantillasHTML.png",
         "https://listicle.emmamora.website/assets/img/spline.png"
       ],
@@ -61,11 +62,12 @@
     "https://listicle.emmamora.website/assets/img/animista.png": "7c1e28c549462ffbaa51061f079f3bf3adce48bf",
     "https://listicle.emmamora.website/assets/img/clippy.png": "92b96b65be41d095d79a5196b050eb55647b266c",
     "https://listicle.emmamora.website/assets/img/glassmorphism.png": "7cd87cb8c691665795426c0b254c47fbdd9b7044",
+    "https://listicle.emmamora.website/assets/img/omatsuri.png": "74bebec8649147bfd1f41be9d157ce33f855d8d8",
     "https://listicle.emmamora.website/assets/img/plantillasHTML.png": "cf6b3c9c47c3f580bab3e22aaf07be5433e66620",
     "https://listicle.emmamora.website/assets/img/spline.png": "f607701f75c11ea3114a50096ac488162d89782d",
     "https://listicle.emmamora.website/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://listicle.emmamora.website/index.html": "fc447b8e90ebeff7ab5ae9bb78f7aa80d269a279",
-    "https://listicle.emmamora.website/main.c8784b74b3e1eddc.js": "888d4090e1afe2940c9954509133811be4f2b2bf",
+    "https://listicle.emmamora.website/index.html": "ae5dd82c5f41669bd71ae674bee208d9d9aa10dd",
+    "https://listicle.emmamora.website/main.8980ea60722b7c49.js": "3cd277f0970507b346a7435827b19e0860ebf1e4",
     "https://listicle.emmamora.website/manifest.webmanifest": "d3f167ca8854b200b4439c8fa954f69ffa86a6ef",
     "https://listicle.emmamora.website/polyfills.67a74163db72fb97.js": "7741623126924b7e17f68d763ae75af5020bf6ab",
     "https://listicle.emmamora.website/runtime.a2c3f68d22203dfb.js": "ebb1694d3da3f871d058540ea47063a875f2c17f",
