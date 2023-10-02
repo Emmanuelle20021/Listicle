@@ -35,4 +35,10 @@ export const elementsList = [
     descripcion: 'Este sitio web es una herramienta en línea que simplifica la creación de efectos de diseño "glassmorphism" para tus proyectos web. El "glassmorphism" es una técnica de diseño de interfaz que agrega un toque de elegancia y modernidad al simular la apariencia de objetos de vidrio translúcido. Con esta herramienta, puedes generar rápidamente el código CSS necesario para aplicar este efecto a tus elementos de diseño.',
     img: 'glassmorphism.png'
   },
+  {
+    titulo: 'Omatsuri',
+    url: 'https://omatsuri.app',
+    descripcion: 'Omatsuri es una página web con herramientas open source ¡para tu día a día!.',
+    img: 'omatsuri.png'
+  },
 ];
